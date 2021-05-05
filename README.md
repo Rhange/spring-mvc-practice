@@ -1,6 +1,7 @@
 # spring-mvc-practice
  하루만에 배우는 Spring MVC
 
+```
 ├── README.md
 └── SampleSpringYes
     ├── pom.xml
@@ -41,3 +42,4 @@
             │           └── yes
             └── resources
                 └── log4j.xml
+```
