@@ -1,6 +1,0 @@
-package sample.spring.yes;
-
-@Service
-public class BookServiceImpl implements BookService {
-
-}
