@@ -1,0 +1,6 @@
+package sample.spring.yes;
+
+@Controller
+public class BookController {
+
+}

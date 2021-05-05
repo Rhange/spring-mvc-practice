@@ -1,0 +1,9 @@
+package sample.spring.yes;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class BookDao {
+	@Autowired
+	SqlSeesionTemplate sqlSessionTemplate;
+}
